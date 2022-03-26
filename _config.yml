@@ -1,6 +1,6 @@
 # Site
 name: 'ReadUnread'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: '读与未读，旨在分享一些值得读的书，读的故事'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/readunread'
@@ -20,20 +20,20 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           Al
+      site:           https://consciousnessbowl.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "我是Al，一个不务正业的营销人"
+      email:          admin@consciousnessbowl.com
+      twitter:        https://twitter.com/zuo_life
 
     jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+      name:           Ex
+      site:           https://readunread.cn
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "读书人，读书读傻了的人"
+      email:          all@readunread.cn
+      twitter:        https://twitter.com/he
  
 # Defaults
 defaults:
