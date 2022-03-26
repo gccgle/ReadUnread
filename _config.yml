@@ -1,10 +1,10 @@
 # Site
 name: 'ReadUnread'
-description: '读与未读，旨在分享一些值得读的书，读的故事'
+description: '读与未读。一些值得读的书、电影、剧集与故事'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/readunread'
-disqus: 'demowebsite'
+disqus: 'readunread'
 email: 'icomesee@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 

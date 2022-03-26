@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "宗教的意义，在于它可以赋予你意义"
+author: Ex
+categories: [ 宗教, 纪录片 ]
+image: assets/images/religion.jpg
+tags: [茶马古道]
 ---
 我以为，宗教最大的意义在于其协调平衡了人们的期许和现实之间的落差。
 韩国KBS拍摄的纪录片《茶马古道》中有一集，是记录从四川一路磕长头到拉萨的三个人。
