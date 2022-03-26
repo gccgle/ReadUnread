@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "市场营销是否激励了消费者的过度购买行为？"
-categories: Consciousness
-author:
-- 大碗主
-meta: "Springfield"
+author: Al
+categories: [ 商业, 观念 ]
+image: assets/images/buyit.jpg
+tags: [消费]
 excerpt: "知乎上有人问个了个问题：市场营销是否激励了消费者的过度购买行为？ 作为一个市场营销从业人员，我的结论是一个大大的“是”！"
 ---
 
