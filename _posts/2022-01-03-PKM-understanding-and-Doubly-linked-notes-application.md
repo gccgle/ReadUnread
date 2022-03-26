@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "个人知识管理理解及双链笔记应用"
+author: Al
+categories: [ 软件, 工具 ]
+image: assets/images/double-link.jpg
+tags: [logseq]
 excerpt: "把Logseq当作个人的工作台。每天打开电脑的第一件事，是打开logseq，在journal页面，使用template功能，把当日页面模块初始化。模块化的意义，在于提醒你不要顾此失彼，不要有疏漏。尽管非线性笔记提倡我们进行随心所欲的记录，但既然是工作台，有必要对所有进行的事务（私人的还是公司的，生活的or工作的，职业的or兴趣的)，做到相对全面的涵盖，并区分权重。因此，Journal页面，更多是进行索引和简短的记录。"
 ---
 
