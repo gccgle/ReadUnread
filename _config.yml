@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    Al:
       name:           Al
       site:           https://consciousnessbowl.com
       avatar:         /assets/images/avatar1.jpg
@@ -27,7 +27,7 @@ authors:
       email:          admin@consciousnessbowl.com
       twitter:        https://twitter.com/zuo_life
 
-    jane:
+    Ex:
       name:           Ex
       site:           https://readunread.cn
       avatar:         /assets/images/avatar2.jpg
