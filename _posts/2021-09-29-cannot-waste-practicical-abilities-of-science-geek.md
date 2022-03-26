@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "像个理工男一样折腾-NAS篇"
+title: "理工男的动手能力不可荒废-NAS篇"
 author: Al
 categories: [ 技巧, 硬件 ]
 image: assets/images/nas.jpg
