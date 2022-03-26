@@ -1,6 +1,6 @@
 # Site
 name: 'ReadUnread'
-description: '读与未读。一些值得读的书、电影、剧集与故事'
+description: 'sth. worth to be read.books,movies,stories.not about share,just about practice.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/readunread'
@@ -23,7 +23,7 @@ authors:
       name:           Al
       site:           https://consciousnessbowl.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "我是Al，一个不务正业的营销人"
+      bio:            "我是Al，不太上进的营销人"
       email:          admin@consciousnessbowl.com
       twitter:        https://twitter.com/zuo_life
 
