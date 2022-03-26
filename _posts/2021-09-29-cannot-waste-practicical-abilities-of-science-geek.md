@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "理工男的动手能力不可荒废-NAS篇"
-author: Al
+author: al
 categories: [ 技巧, 硬件 ]
 image: assets/images/nas.jpg
 tags: [群晖]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "市场营销是否激励了消费者的过度购买行为？"
-author: Al
+author: al
 categories: [ 商业, 观念 ]
 image: assets/images/buyit.jpg
 tags: [消费]

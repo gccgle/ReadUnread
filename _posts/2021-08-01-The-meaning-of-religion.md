@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "宗教的意义，在于它可以赋予你意义"
-author: Ex
+author: ex
 categories: [ 宗教, 纪录片 ]
 image: assets/images/religion.jpg
 tags: [茶马古道]

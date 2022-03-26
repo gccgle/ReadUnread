@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我们终于按照期待塑造起了现在的模样"
-author: Al
+author: al
 categories: [ 阅读, 文字 ]
 image: assets/images/revolution.jpg
 tags: [文字]

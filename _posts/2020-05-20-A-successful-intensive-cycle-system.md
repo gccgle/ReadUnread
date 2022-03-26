@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "一个大师点化-成功者成功的正强化循环系统"
-author: Ex
+author: ex
 categories: [ 宗教 ]
 image: assets/images/god.jpg
 tags: [大师]

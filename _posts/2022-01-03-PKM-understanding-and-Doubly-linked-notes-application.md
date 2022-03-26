@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "个人知识管理理解及双链笔记应用"
-author: Al
+author: al
 categories: [ 软件, 工具 ]
 image: assets/images/double-link.png
 tags: [logseq]
