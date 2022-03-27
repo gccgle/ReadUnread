@@ -53,7 +53,7 @@ a.text-dark:hover {
 	}
 }
 .row.gap-y>.col,.row.gap-y>[class*="col-"] {
-	padding-top:35px;
+	padding-top:15px;
 	padding-bottom:15px;
 }
 .mt-neg5 {
