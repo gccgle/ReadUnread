@@ -22,7 +22,7 @@ authors:
     al:
       name:           Al
       site:           https://consciousnessbowl.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/al.png
       bio:            "我是Al，不太上进的营销人"
       email:          admin@consciousnessbowl.com
       twitter:        https://twitter.com/zuo_life
@@ -30,7 +30,7 @@ authors:
     ex:
       name:           Ex
       site:           https://readunread.cn
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/ex.jpg
       bio:            "读书人，读书读傻了的人"
       email:          all@readunread.cn
       twitter:        https://twitter.com/he
