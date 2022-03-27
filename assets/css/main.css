@@ -172,7 +172,7 @@ samp {
   font-size: 1em; }
 
 pre {
-  margin-top: 0;
+  margin-top: 1rem;
   margin-bottom: 1rem;
   overflow: auto;
   -ms-overflow-style: scrollbar;
