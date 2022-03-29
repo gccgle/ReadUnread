@@ -15,7 +15,7 @@ Posted: November 02, 2021
 ![alt I Do]({{ site.baseurl }}/assets/images/DeBeers_En_2.jpg "I Do,En,2")
 
 
-中文广告概念为“我可以”，英文为“I Do”；恒信玺利笑了，说：对，就是在下。
+中文广告概念为“我可以”，英文为“I Do”。恒信玺利笑了，广告片是不是可以原版借用了？钻石消费者要哭，钱包被I Do这两个单词扒两遍——之前**“我愿意”**为爱情买单，现在还要**“我可以“**为守护社会和自然等有的没的掏钱。
 
 关于这次广告运动，英文版官方解释：
 > The campaign is about expanding the meaning of the two iconic words ‘I do.’ in a powerful, authentic and unexpected way. ‘I do.’ embodies today’s new generation, committing not only to timeless wedding vows but also to all the things they believe in, expanding their meaning to stand for personal pledges of all kinds: to love, friendship, family, society, nature and more.
