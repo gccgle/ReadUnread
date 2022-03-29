@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "局外人"
-author: Ex
+author: ex
+image: assets/images/outsider.jpg
+tags: [Featured]
 excerpt: "能用愚蠢解释的，就不要试图用恶意去揣测他人。读罢加缪的《局外人》，想起这句话。主人公冷血？边缘性人格?反社会？这样说有点抬举主人公了。"
 ---
 
