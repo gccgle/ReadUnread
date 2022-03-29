@@ -1,12 +1,12 @@
 # Site
-name: 'ReadUnread'
+name: 'ConsciousnessBowl'
 description: 'sth. worth to be read.books,movies,stories,etc.not about share,just for personal practice.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'readunread'
+disqus: 'ConsciousnessBowl'
 email: 'icomesee@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
