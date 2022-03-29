@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Github Pages配置备忘"
+author: al
+
 categories: HOW
 excerpt: "一些个人配置Github Pages的过程备忘，从Git使用、Ruby等环境部署、到一些不可避免的报错，甚至是Markdown等语言基础等，都无比陌生。是以将一些参考信息加以汇聚整理。"
 
