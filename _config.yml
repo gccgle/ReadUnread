@@ -1,6 +1,6 @@
 # Site
 name: 'ReadUnread'
-description: 'sth. worth to be read.books,movies,stories,etc.not about share,just for practice.'
+description: 'sth. worth to be read.books,movies,stories,etc.not about share,just for personal practice.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -23,7 +23,7 @@ authors:
       name:           Al
       site:           https://consciousnessbowl.com
       avatar:         assets/images/al.png
-      bio:            "我是Al，不太上进的营销人"
+      bio:            "好好学习 天天向上"
       email:          admin@consciousnessbowl.com
       twitter:        https://twitter.com/zuo_life
 
@@ -31,7 +31,7 @@ authors:
       name:           Ex
       site:           https://readunread.cn
       avatar:         assets/images/ex.jpg
-      bio:            "读书人，读书读傻了的人"
+      bio:            "试试读书究竟能把人读成个傻样"
       email:          all@readunread.cn
       twitter:        https://twitter.com/he
  
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: al
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/al.png
       
   # all pages
   - scope:
