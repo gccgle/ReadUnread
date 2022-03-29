@@ -4,7 +4,7 @@ title: "DeBeers新广告运动主题——I Do"
 author: ex
 image: assets/images/DeBeers_En_1.jpg
 tags: [sticky]
-excerpt: "中文广告概念为“我可以”，英文为“I Do”；恒信玺利笑了，说：对，就是在下。"
+excerpt: "中文广告概念为“我可以”，英文为“I Do”。恒信玺利笑了，广告片是不是可以原版借用了？钻石消费者要哭，钱包被I Do这两个单词扒两遍——之前**“我愿意”**为爱情买单，现在还要**“我可以“**为守护社会和自然等有的没的掏钱。"
 ---
 
 Agency Network: Omnicom
