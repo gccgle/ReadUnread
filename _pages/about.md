@@ -5,4 +5,4 @@ permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+意识培养皿，意识的碗。丢一些东西进去，假以时日，看看是否会像原始汤一样生长出一些东西来。
