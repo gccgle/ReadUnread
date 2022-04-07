@@ -22,7 +22,7 @@ Posted: November 02, 2021
 
 ![alt I Do]({{ site.baseurl }}/assets/images/DeBeers_Cn_1.jpeg "I Do,Cn,1")
 ![alt I Do]({{ site.baseurl }}/assets/images/DeBeers_Cn_2.jpeg "I Do,Cn,2")
-![alt I Do]({{ site.baseurl }}/assets/images/DeBeers_Cn_3.jpeg "I Do,Cn,3")!
+![alt I Do]({{ site.baseurl }}/assets/images/DeBeers_Cn_3.jpeg "I Do,Cn,3")
 ![alt I Do]({{ site.baseurl }}/assets/images/DeBeers_Cn_4.jpeg "I Do,Cn,4")
 ![alt I Do]({{ site.baseurl }}/assets/images/DeBeers_Cn_5.jpeg "I Do,Cn,5")
 ![alt I Do]({{ site.baseurl }}/assets/images/DeBeers_Cn_6.jpg "I Do,Cn,6")

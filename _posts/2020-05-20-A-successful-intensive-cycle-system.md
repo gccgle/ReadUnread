@@ -4,7 +4,7 @@ title: "一个大师点化-成功者成功的正强化循环系统"
 author: al
 categories: [ 宗教 ]
 image: assets/images/god.jpg
-tags: [大师]
+tags: [featured]
 excerpt: "各路大师层出不穷，且很多人买账，我猜想这背后大概率有个随机性的概率问题；共生关系的互强化。至于大师是不是真有大师技能，神TM知道呢"
 ---
 
